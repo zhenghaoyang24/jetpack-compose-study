@@ -5,4 +5,28 @@
     <string name="tip_amount">Tip Amount: %s</string>
     <string name="how_was_the_service">Tip Percentage</string>
     <string name="round_up_tip">Round up tip?</string>
+
+    <string name="dice_1">dice_1</string>
+    <string name="dice_2">dice_2</string>
+    <string name="dice_3">dice_3</string>
+    <string name="dice_4">dice_4</string>
+    <string name="dice_5">dice_5</string>
+    <string name="dice_6">dice_6</string>
+
+
+    <string name="architecture">Architecture</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="fashion">Fashion</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="drawing">Drawing</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="tech">Tech</string>
+
 </resources>
