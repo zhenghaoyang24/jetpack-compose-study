@@ -102,7 +102,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         WindowCompat.setDecorFitsSystemWindows(window, true)
         setContent {
-            DiceRollerApp()
+            ArtSpaceLayout()
         }
     }
 }
